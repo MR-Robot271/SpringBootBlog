@@ -1,8 +1,7 @@
 /**
- * Created by IntelliJ IDEA.
- * User: Administrator
- * DateTime: 2018/7/31 22:39
- **/
+* @Description: 类名中的 "Cond" 是 "Condition" 的缩写，意味着这个类用于封装筛选或条件参数，以便在查询评论时可以根据这些条件进行过滤。
+* @Date: 2023/11/3
+*/
 package com.wip.dto.cond;
 
 /**

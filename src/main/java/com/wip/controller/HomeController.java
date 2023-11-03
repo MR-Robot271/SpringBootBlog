@@ -31,6 +31,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.net.URLEncoder;
 import java.util.List;
 
+// Swagger的注解
 @Api("博客前台页面")
 @Controller
 public class HomeController extends BaseController {

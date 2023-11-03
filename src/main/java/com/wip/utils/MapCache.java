@@ -17,6 +17,7 @@ public class MapCache {
      */
     private static final int DEFAULT_CACHES = 1024;
 
+    // 单例模式
     private static final MapCache INS = new MapCache();
 
     public static MapCache single() {

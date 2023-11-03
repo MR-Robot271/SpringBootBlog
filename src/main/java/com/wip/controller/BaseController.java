@@ -9,6 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 public abstract class BaseController {
 
 
+    // 缓存
     protected MapCache cache = MapCache.single();
 
 
